@@ -3,6 +3,16 @@ entries:
   flux2:
   - apiVersion: v2
     appVersion: 0.20.1
+    created: "2021-11-02T08:34:52.903750158Z"
+    description: A Helm chart for flux2
+    digest: e495b5165aeb8f14c719d1e39dd9ab7fe6a2dd0b8cc87f13cd35c7ed370836f4
+    name: flux2
+    type: application
+    urls:
+    - https://github.com/haarchri/helm-charts/releases/download/flux2-0.1.1/flux2-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 0.20.1
     created: "2021-11-02T07:34:31.220185407Z"
     description: A Helm chart for flux2
     digest: c020d951c42cc59f3e399d6d8ab7262a5d006142c7f7902b946d3876c8e4a3a0
